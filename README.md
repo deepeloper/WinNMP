@@ -4,7 +4,7 @@
 
 [The project](https://web.archive.org/web/20240518072335/https://sourceforge.net/projects/wtnmp/) was dropped 
 and now you cannot install it.
-So I created [ISO-image](https://drive.google.com/file/d/14d-Od2le1D7KFoJjuQ0SVdc5aSLtSphO/view?usp=sharing) with already installed stack
+So I created [ISO-image](https://drive.google.com/file/d/1o8EU-P74rOIAgFU4ghgVcz2jrOMkJAvv/view?usp=sharing) with already installed stack
 (last available version 21.10).   
 
 ### Inside
